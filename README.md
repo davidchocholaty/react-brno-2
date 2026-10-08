@@ -6,6 +6,10 @@ This repository contains slides and links to resources for the presentation **â€
 
 AI helps us move faster and take on more, but our attention and energy still have limits. This talk explores research on task switching, mental fatigue, and recovery, alongside practical ideas for working with multiple AI agents and keeping energy for life outside the computer.
 
+## Slides
+
+ðŸ“„ **[Download the presentation slides (PDF)](react_brno_2.pdf)**
+
 ## Sources used in the presentation
 
 The table links to original papers where available. The Berkeley article reports preliminary research, and ParallelPilot is cited as a preprint. These sources differ in their methods and strength of evidence.

@@ -30,3 +30,11 @@ The table links to original papers where available. The Berkeley article reports
 - **[APA podcast with Gloria Mark: Why Our Attention Spans Are Shrinking](https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans)** — a discussion of attention and digital work. The widely quoted “47 seconds” describes observed screen-switching behavior, not a maximum human capacity to concentrate.
 - **[Oppezzo & Schwartz (2014): Give Your Ideas Some Legs](https://doi.org/10.1037/a0036577)** — the original experiments on walking and creative thinking.
 - **[Sonnentag (2018): The Recovery Paradox](https://doi.org/10.1016/j.riob.2018.11.002)** — a review explaining why demanding work can increase the need for recovery while making recovery harder.
+
+## Questions worth discussing
+
+- Would you trade a free afternoon for evening work once your agent finishes?
+- Would that schedule work for your team and employer?
+- Your agent runs for three hours. Does waiting count as working time?
+- What limits your parallel work: your attention, your laptop, or the tasks themselves?
+- What if two tasks are your sustainable limit, but your employer expects more output?
